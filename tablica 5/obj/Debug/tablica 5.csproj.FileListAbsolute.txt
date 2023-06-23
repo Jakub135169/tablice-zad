@@ -1,0 +1,8 @@
+C:\Users\jradz\OneDrive\Pulpit\tablice\tablica 5\obj\Debug\tablica 5.csproj.AssemblyReference.cache
+C:\Users\jradz\OneDrive\Pulpit\tablice\tablica 5\obj\Debug\tablica 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\jradz\OneDrive\Pulpit\tablice\tablica 5\obj\Debug\tablica 5.csproj.CoreCompileInputs.cache
+C:\Users\jradz\OneDrive\Pulpit\tablice\tablica 5\bin\Debug\tablica 5.exe.config
+C:\Users\jradz\OneDrive\Pulpit\tablice\tablica 5\bin\Debug\tablica 5.exe
+C:\Users\jradz\OneDrive\Pulpit\tablice\tablica 5\bin\Debug\tablica 5.pdb
+C:\Users\jradz\OneDrive\Pulpit\tablice\tablica 5\obj\Debug\tablica 5.exe
+C:\Users\jradz\OneDrive\Pulpit\tablice\tablica 5\obj\Debug\tablica 5.pdb

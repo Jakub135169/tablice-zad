@@ -1,0 +1,8 @@
+C:\Users\jradz\OneDrive\Pulpit\tablice\tablica 4\obj\Debug\tablica 4.csproj.AssemblyReference.cache
+C:\Users\jradz\OneDrive\Pulpit\tablice\tablica 4\obj\Debug\tablica 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\jradz\OneDrive\Pulpit\tablice\tablica 4\obj\Debug\tablica 4.csproj.CoreCompileInputs.cache
+C:\Users\jradz\OneDrive\Pulpit\tablice\tablica 4\bin\Debug\tablica 4.exe.config
+C:\Users\jradz\OneDrive\Pulpit\tablice\tablica 4\bin\Debug\tablica 4.exe
+C:\Users\jradz\OneDrive\Pulpit\tablice\tablica 4\bin\Debug\tablica 4.pdb
+C:\Users\jradz\OneDrive\Pulpit\tablice\tablica 4\obj\Debug\tablica 4.exe
+C:\Users\jradz\OneDrive\Pulpit\tablice\tablica 4\obj\Debug\tablica 4.pdb
